@@ -68,3 +68,6 @@ Visit the live application: [TomYam Tayar](https://tomyam-foodie.vercel.app/)
 - [Vercel](https://vercel.com/dashboard) - Deployment Platform
 - [AWS](https://aws.amazon.com/) - Cloud Service Provider 
 - [SQLite for NodeJS](https://www.npmjs.com/package/sqlite) - Database
+
+## Acknowledgements
+Thanks to [Maximillian](github.com/mschwarzmueller) for the NextJS course provided.
