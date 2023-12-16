@@ -1,8 +1,8 @@
-# TomYam Foodie - Next.js App
+# TomYam Tayar - Next.js App
 
-[TomYam Foodie](https://tomyam-foodie.vercel.app/)
+[Tom Yam Tayar](https://tomyam-foodie.vercel.app/)
 
-TomYam Foodie is a web application built with [Next.js](https://nextjs.org/), a React framework, that allows users to explore and discover a variety of Tom Yum dishes. This project is deployed on [Vercel](https://vercel.com/) and can be accessed at [https://tomyam-foodie.vercel.app/](https://tomyam-foodie.vercel.app/). Images will be inserted to [AWS S3](https://aws.amazon.com/) bucket everytime new meal is added.
+Tom Yam Tayar is a web application built with [Next.js](https://nextjs.org/), a React framework, that allows users to explore and discover a variety of Tom Yam dishes. This project is deployed on [Vercel](https://vercel.com/) and can be accessed at [https://tomyam-foodie.vercel.app/](https://tomyam-foodie.vercel.app/). Images will be inserted to [AWS S3](https://aws.amazon.com/) bucket everytime new meal is added.
 
 ## Table of Contents
 
