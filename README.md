@@ -55,7 +55,7 @@ Before you begin, ensure you have the following installed:
 
 The application will be accessible at http://localhost:3000/.
 
-Explore the TomYam Foodie app and enjoy discovering delicious Tom Yam dishes and upload your own meals!
+Explore the Tom Yam Tayar app and enjoy discovering delicious Tom Yam dishes and upload your own meals!
 
 Deployment
 The project is deployed on Vercel. Any changes pushed to the main branch will trigger an automatic deployment.
