@@ -20,7 +20,33 @@ export default function Home() {
           </div>
         </div>
       </header>
-      <main></main>
+      <main>
+        <section className={classes.section}>
+          <h2>How it works</h2>
+          <p>
+            Tomyam Tayar is a platform for foodies to share their favorite
+            recipes with the world. It&apos;s a place to discover new dishes,
+            and to connect with other food lovers.
+          </p>
+          <p>
+            Tomyam Tayar is a place to discover new dishes, and to connect with
+            other food lovers.
+          </p>
+        </section>
+
+        <section className={classes.section}>
+          <h2>Why Tomyam Tayar?</h2>
+          <p>
+            Tomyam Tayar is a platform for foodies to share their favorite
+            recipes with the world. It&apos;s a place to discover new dishes,
+            and to connect with other food lovers.
+          </p>
+          <p>
+            Tomyam Tayar is a place to discover new dishes, and to connect with
+            other food lovers.
+          </p>
+        </section>
+      </main>
     </>
   );
 }
