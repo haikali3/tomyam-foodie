@@ -7,11 +7,10 @@ import classes from './page.module.css';
 const MealDetailsPage = ({ params }) => {
   const meal = getMeal(params.mealSlug);
 
-  meal.instructions = meal.instructions.replace(/\n/g, '<br />');
-
   if (!meal) {
     notFound();
   }
+  meal.instructions = meal.instructions.replace(/\n/g, '<br />');
 
   return (
     <>

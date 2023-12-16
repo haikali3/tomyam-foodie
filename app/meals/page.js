@@ -2,7 +2,7 @@ import { Suspense } from 'react';
 import classes from './page.module.css';
 import Link from 'next/link';
 import MealsGrid from '@/components/meals/meals-grid';
-import getMeals from '@/lib/meals';
+import { getMeals } from '@/lib/meals';
 
 async function Meals() {
   const meals = await getMeals();
@@ -10,7 +10,7 @@ async function Meals() {
   return <MealsGrid meals={meals} />;
 }
 
-const MealsPage = async () => {
+const MealsPage = () => {
   console.log('MealsPage rendered');
   return (
     <>
