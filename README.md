@@ -1,4 +1,4 @@
-# TomYam Tayar - Next.js App
+# Tom Yam Tayar - Next.js App
 
 [Tom Yam Tayar](https://tomyam-foodie.vercel.app/)
 
